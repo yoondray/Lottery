@@ -15,7 +15,7 @@
   => 통계적 실험을 반복하면, P(A); 어떤 사건의 수가 발생할 확률에 가까워진다.
 <hr>
 - Axiomatic definition of Probability : 한 사건이 발생화는 것은 일정한 법칙을 따른다.<br>
-  => 한 가지 사건은 일정한 상수를 향한다. <br>
+  => 한 가지 사건은 일정한 상수를 향한다. <br> <hr>
 - Conditional Probability P(B|A) 조건부 확률; A가 발생하고 B가 일어날 확률
   => P(A교집합B) = P(B|A)P(A) = P(A|B)P(B) (단, P(A)>0)
 <br>
