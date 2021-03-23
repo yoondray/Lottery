@@ -1,0 +1,9 @@
+import random
+numbers = list(range(1,45))
+lotto=[]
+while len(lotto) < 6:
+  num = random.choice(numbers)
+  if not num in lotto:
+    lotto.append(num)
+    
+print(lotto)
