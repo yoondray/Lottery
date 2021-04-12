@@ -52,11 +52,11 @@ ii)를 활용하면 [1, 2, 3] = [2, 1, 3] = [3, 2, 1] 이기 때문에 중복이
 <br>
 
 ### 방법
-**START** ▶ 1. 45개의 숫자에서 무작위 1개 선택 ▶ 2. 숫자가 기존에 뽑힌 숫자와 같은가? <br>
-▶(IF YES) 1.으로 회귀 <br>
-▶(IF NO) 3. 6개 모두 선택했나? <br>
-▶(IF YES) 4. 완료된 6개의 숫자 출력 ▶ **FINISH** <br>
-▶(IF NO) 1.으로 회귀 <br><br>
+**START** ▶ 1번. 45개의 숫자에서 무작위 1개 선택 ▶ 2번. 숫자가 기존에 뽑힌 숫자와 같은가? <br>
+▶(IF YES) 1번.으로 회귀 <br>
+▶(IF NO) 3번. 6개 모두 선택했나? <br>
+▶(IF YES) 4번. 완료된 6개의 숫자 출력 ▶ **FINISH** <br>
+▶(IF NO) 1번.으로 회귀 <br><br>
 
 #### reference 
 - BlockDMask 개발자 https://blockdmask.tistory.com/368 
